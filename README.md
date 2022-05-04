@@ -18,8 +18,8 @@
 </div>
 
 ### :woman_technologist: About Me :
-I'm a Software Engineer currently traveling between Michigan and Panamá. 
-- :spider_web: I’m currently working as a Junior Web Developer building, managing, and maintaining websites built with different technologies.
+My name is Mariam Edwards and I'm a Software Engineer currently traveling between Michigan and Panamá. 
+- :spider_web: I’m currently working as a Junior Web Developer building, managing, and maintaining websites with different technologies.
 
 - :spider: Working on my latest project series "Web Designing My Favorite Anime of All Time", where I practice React while associating it with one of the things that I love most, anime.
 
