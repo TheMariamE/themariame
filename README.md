@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="10"/>
+  <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mariam-edwards/">
@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=themariame&style=flat-square&color=red" alt=""/>
 <h1>
   Hello everyone! 
-  <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="60px"/>
+  <img src="https://media.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width="60"/>
 </h1>
 </div>
 
