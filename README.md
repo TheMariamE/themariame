@@ -29,7 +29,7 @@ My name is Mariam Edwards and I'm a Software Engineer currently traveling betwee
 
 ### Portfolio under construction. 
 
-Another way to reach me is through here: <a href="mariamdwards.com" target="_blank" rel="noreferrer">mariamedwards.com</a>
+Another way to reach me is through here: [mariamedwards.com](https://mariamedwards.com/)
 
 ---
 
