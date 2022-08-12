@@ -27,6 +27,10 @@ My name is Mariam Edwards and I'm a Software Engineer currently traveling betwee
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-themariame-red?style=flat&logo=Gmail&logoColor=white)](mailto:mariamedwards.smart@gmail.com)
 
+### Portfolio under construction. 
+
+Another way to reach me is through here: <a href="mariamdwards.com" target="_blank" rel="noreferrer">mariamedwards.com</a>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
